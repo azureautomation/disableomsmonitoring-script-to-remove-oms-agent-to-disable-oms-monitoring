@@ -1,7 +1,7 @@
 {
     "Author": "ASabale",
     "ContentSize": 5174,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/disableomsmonitoring-script-to-remove-oms-agent-to-disable-oms-monitoring./master/Disable-OMSMonitoring.ps1",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/disableomsmonitoring-script-to-remove-oms-agent-to-disable-oms-monitoring/master/Disable-OMSMonitoring.ps1",
     "DownloadCount": 886,
     "Id": "Disable-OMSMonitoring-8e1f5f4d",
     "IsFederated": false,
@@ -15,6 +15,6 @@
     "Summary": "Disable-OMSMonitoring - script to remove OMS agent to disable OMS monitoring..SYNOPSIS\u00a0 \u00a0\u00a0- This script remove OMS agent to disable OMS monitoring.\u00a0 .DESCRIPTION\u00a0 \u00a0 \u00a0- The script remove Oms agent on selected VM\u00a0.INPUTS\u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 \u00a0 \u00a0 \u00a0$VMResourceGroupName - The name of Resource",
     "Title": "Disable-OMSMonitoring - script to remove OMS agent to disable OMS monitoring.",
     "UpdatedDate": "2017-5-27T00:00:00",
-    "Url": "https://github.com/azureautomation/disableomsmonitoring-script-to-remove-oms-agent-to-disable-oms-monitoring.",
+    "Url": "https://github.com/azureautomation/disableomsmonitoring-script-to-remove-oms-agent-to-disable-oms-monitoring",
     "UserTags": "Monitoring, Azure Automation, OMS"
 }
